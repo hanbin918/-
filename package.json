@@ -1,0 +1,13 @@
+{
+  "name": "hiby",
+  "version": "1.0.0",
+  "description": "Hiby - 익명 5인 소규모 실시간 톡룸",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
